@@ -1,0 +1,9 @@
+.*
+venv
+!.gitignore
+*.pyc
+__pycache__
+openai.env
+pinecone.env
+resources
+scripts/trelleborg
