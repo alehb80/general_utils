@@ -1,4 +1,5 @@
 Pillow
+dash
 docx2txt
 forex-python
 geopy
@@ -14,6 +15,7 @@ openpyxl
 pandas
 pdf2image
 pinecone-client
+plotly
 python-dotenv
 scikit-learn
 tensorflow
